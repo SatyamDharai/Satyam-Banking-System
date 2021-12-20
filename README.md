@@ -8,6 +8,5 @@
 (ii). Back-End tools : ExpressJS & NodeJS
 (iii). Database : MongoDB
 
-3. The link of website is given below:-
 
-https://dry-sands-91978.herokuapp.com/
+
